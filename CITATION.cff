@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+
+title: Hospital Length of Stay Prediction
+
+authors:
+  - family-names: Li
+    given-names: Wei-Ping
+
+message: If you use this repository, please cite it.
+
+license: MIT
