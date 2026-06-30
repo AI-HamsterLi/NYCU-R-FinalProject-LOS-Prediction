@@ -95,7 +95,7 @@ paper/
 
 The original SPARCS dataset is **NOT** included due to licensing restrictions.
 
-Please download it from the New York State Department of Health.
+Please download it from the New York State Department of Health（https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/gnzp-ekau/about_data）.
 
 ---
 
