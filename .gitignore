@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Large datasets
+data/raw/*
+data/processed/*.csv
+data/processed/*.rds
+
+# Temporary files
+*.zip
+*.tmp
+*.log

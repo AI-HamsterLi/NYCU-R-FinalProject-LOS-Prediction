@@ -1,0 +1,5 @@
+"Dataset","Model","R2","p_value_display","RMSE","MAE","Jain_R2","Jain_p_value","Difference_from_Jain_R2"
+"Newborn","Random Forest Regression - Target",0.74556409786896,"<1e-2",3.62360265969852,1.25350288580116,0.767,"<1e-2",-0.0214359021310395
+"Newborn","Linear Regression - One Hot",0.555962078639512,"<1e-2",4.91945240061424,1.70520344782998,0.82,"<1e-2",-0.264037921360488
+"Non-newborn","Random Forest Regression - Target",0.399988544747906,"<1e-2",5.67785358357642,2.82042752574955,0.396,"<1e-2",0.00398854474790583
+"Non-newborn","Linear Regression - One Hot",0.33012817984337,"<1e-2",6.00994748786226,3.0324392291052,0.42,"<1e-2",-0.0898718201566299

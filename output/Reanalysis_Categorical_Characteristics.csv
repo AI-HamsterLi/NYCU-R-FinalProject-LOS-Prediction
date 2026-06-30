@@ -1,0 +1,67 @@
+"Variable","Category","Frequency","Percentage"
+"Gender","F",1297283,55.48
+"Gender","M",1040797,44.51
+"Gender","U",24,0
+"Age Group","0 to 17",347084,14.84
+"Age Group","18 to 29",241777,10.34
+"Age Group","30 to 49",452633,19.36
+"Age Group","50 to 69",654214,27.98
+"Age Group","70 or Older",642396,27.48
+"Race","Black/African American",428736,18.34
+"Race","Multi-racial",28940,1.24
+"Race","Other Race",561503,24.02
+"Race","White",1318925,56.41
+"Ethnicity","Multi-ethnic",10171,0.44
+"Ethnicity","Not Span/Hispanic",1931802,82.62
+"Ethnicity","Spanish/Hispanic",299711,12.82
+"Ethnicity","Unknown",96420,4.12
+"Type of Admission","Elective",440587,18.84
+"Type of Admission","Emergency",1494930,63.94
+"Type of Admission","Newborn",224573,9.6
+"Type of Admission","Not Available",432,0.02
+"Type of Admission","Trauma",6619,0.28
+"Type of Admission","Urgent",170963,7.31
+"Patient Disposition","Another Type Not Listed",6960,0.3
+"Patient Disposition","Cancer Center or Children's Hospital",2067,0.09
+"Patient Disposition","Court/Law Enforcement",4256,0.18
+"Patient Disposition","Critical Access Hospital",131,0.01
+"Patient Disposition","Expired",49996,2.14
+"Patient Disposition","Facility w/ Custodial/Supportive Care",6403,0.27
+"Patient Disposition","Federal Health Care Facility",694,0.03
+"Patient Disposition","Home or Self Care",1557447,66.61
+"Patient Disposition","Home w/ Home Health Services",316363,13.53
+"Patient Disposition","Hosp Basd Medicare Approved Swing Bed",1510,0.06
+"Patient Disposition","Hospice - Home",11637,0.5
+"Patient Disposition","Hospice - Medical Facility",12835,0.55
+"Patient Disposition","Inpatient Rehabilitation Facility",44130,1.89
+"Patient Disposition","Left Against Medical Advice",48184,2.06
+"Patient Disposition","Medicaid Cert Nursing Facility",904,0.04
+"Patient Disposition","Medicare Cert Long Term Care Hospital",2297,0.1
+"Patient Disposition","Psychiatric Hospital or Unit of Hosp",11687,0.5
+"Patient Disposition","Short-term Hospital",39914,1.71
+"Patient Disposition","Skilled Nursing Home",220689,9.44
+"APR Severity of Illness Code","0",66,0
+"APR Severity of Illness Code","1",772297,33.03
+"APR Severity of Illness Code","2",886653,37.92
+"APR Severity of Illness Code","3",527307,22.55
+"APR Severity of Illness Code","4",151781,6.49
+"APR Risk of Mortality","",66,0
+"APR Risk of Mortality","Extreme",127097,5.44
+"APR Risk of Mortality","Major",344726,14.74
+"APR Risk of Mortality","Minor",1372778,58.71
+"APR Risk of Mortality","Moderate",493437,21.1
+"APR Medical Surgical Description","Medical",1744662,74.62
+"APR Medical Surgical Description","Not Applicable",66,0
+"APR Medical Surgical Description","Surgical",593376,25.38
+"Payment Typology 1","Blue Cross/Blue Shield",271005,11.59
+"Payment Typology 1","Department of Corrections",3912,0.17
+"Payment Typology 1","Federal/State/Local/VA",16528,0.71
+"Payment Typology 1","Managed Care, Unspecified",20257,0.87
+"Payment Typology 1","Medicaid",720877,30.83
+"Payment Typology 1","Medicare",883751,37.8
+"Payment Typology 1","Miscellaneous/Other",27718,1.19
+"Payment Typology 1","Private Health Insurance",332637,14.23
+"Payment Typology 1","Self-Pay",54534,2.33
+"Payment Typology 1","Unknown",6885,0.29
+"Emergency Department Indicator","N",972456,41.59
+"Emergency Department Indicator","Y",1365648,58.41

@@ -1,0 +1,17 @@
+"Dataset","Model","Absolute_class_error","Count","Percent"
+"Newborn","Random Forest Classifier - Target",0,11845,59.225
+"Newborn","Random Forest Classifier - Target",1,5903,29.515
+"Newborn","Random Forest Classifier - Target",2,349,1.745
+"Newborn","Random Forest Classifier - Target",3,1483,7.415
+"Newborn","Random Forest Classifier - Target",4,11,0.055
+"Newborn","Random Forest Classifier - Target",5,177,0.885
+"Newborn","Random Forest Classifier - Target",6,206,1.03
+"Newborn","Random Forest Classifier - Target",7,26,0.13
+"Non-newborn","Random Forest Classifier - Target",0,13591,45.3033333333333
+"Non-newborn","Random Forest Classifier - Target",1,3724,12.4133333333333
+"Non-newborn","Random Forest Classifier - Target",2,3274,10.9133333333333
+"Non-newborn","Random Forest Classifier - Target",3,6082,20.2733333333333
+"Non-newborn","Random Forest Classifier - Target",4,1845,6.15
+"Non-newborn","Random Forest Classifier - Target",5,489,1.63
+"Non-newborn","Random Forest Classifier - Target",6,493,1.64333333333333
+"Non-newborn","Random Forest Classifier - Target",7,502,1.67333333333333

@@ -1,0 +1,26 @@
+"Variable","Class","Missing","Missing_Percentage","Unique_Values"
+"Health Service Area","character",0,0,8
+"Hospital County","character",0,0,57
+"Operating Certificate Number","integer",0,0,174
+"Facility Id","character",0,0,211
+"Facility Name","character",0,0,213
+"Age Group","character",0,0,5
+"Zip Code - 3 digits","character",0,0,51
+"Gender","character",0,0,3
+"Race","character",0,0,4
+"Ethnicity","character",0,0,4
+"Length of Stay","character",0,0,120
+"Type of Admission","character",0,0,6
+"Patient Disposition","character",0,0,19
+"CCS Diagnosis Code","integer",0,0,260
+"CCS Procedure Code","integer",0,0,224
+"APR DRG Code","integer",0,0,314
+"APR MDC Code","integer",0,0,26
+"APR Severity of Illness Code","integer",0,0,5
+"APR Risk of Mortality","character",0,0,5
+"APR Medical Surgical Description","character",0,0,3
+"Payment Typology 1","character",0,0,10
+"Payment Typology 2","character",0,0,11
+"Payment Typology 3","character",0,0,11
+"Birth Weight","integer",2108814,90.19,78
+"Emergency Department Indicator","character",0,0,2

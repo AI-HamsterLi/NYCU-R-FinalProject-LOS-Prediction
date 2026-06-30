@@ -1,0 +1,2 @@
+"Analysis","Status","Reason"
+"Approximate SHAP","Not run","Package fastshap is not installed in this R environment. Feature importance and permutation importance are used as interpretable alternatives."

@@ -1,0 +1,7 @@
+"Model","Parameter","Original_Value","R_Reproduction_Implementation"
+"Logistic Regression","Adam optimizer learning rate","1e-3","nnet::multinom() R-equivalent; Adam not used"
+"Logistic Regression","Adam optimizer weight decay","1e-4","nnet::multinom() R-equivalent; Adam not used"
+"Logistic Regression","Adam optimizer number of epochs","10","nnet::multinom() R-equivalent; maxit = 100"
+"Random Forest Regression / Classifier","Number of estimators","10","ranger::ranger(num.trees = 10)"
+"Random Forest Regression / Classifier","Maximum depth","10","ranger::ranger(max.depth = 10)"
+"Decision Tree Regression","Maximum depth","5","Reserved for classification tree visualization"

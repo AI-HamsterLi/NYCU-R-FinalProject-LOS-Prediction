@@ -1,0 +1,21 @@
+"Dataset","Model","LOS_group","N","Mean_absolute_error","Median_absolute_error","P90_absolute_error"
+"Newborn","Linear Regression - One Hot","1 day",1647,2.24372700751606,1.17965962774335,3.1531326943537
+"Newborn","Linear Regression - One Hot","2 days",12263,0.741699446581777,0.385576921899712,1.5337885496292
+"Newborn","Linear Regression - One Hot","3 days",5580,1.16156690964542,0.802717336786849,2.19243967528106
+"Newborn","Linear Regression - One Hot","4-6 days",1960,2.35373643629966,1.70505705967327,4.63781396737003
+"Newborn","Linear Regression - One Hot",">6 days",1452,10.4454710030456,5.13530419500408,26.6961194752589
+"Newborn","Random Forest Regression - Target","1 day",1647,1.82813118957967,1.38696251536933,1.58274303951592
+"Newborn","Random Forest Regression - Target","2 days",12263,0.516571684315496,0.419200021478974,0.677764401962606
+"Newborn","Random Forest Regression - Target","3 days",5580,0.683988605748371,0.575221619736793,0.817311846852165
+"Newborn","Random Forest Regression - Target","4-6 days",1960,1.87777571706784,1.55370336199408,2.89680628250122
+"Newborn","Random Forest Regression - Target",">6 days",1452,8.17147082031033,4.87980813159175,18.9814894001258
+"Non-newborn","Linear Regression - One Hot","1 day",32881,2.57857436086296,2.01967431707334,4.97393736450247
+"Non-newborn","Linear Regression - One Hot","2 days",42329,1.74235410063137,1.10625444150498,3.95811774329312
+"Non-newborn","Linear Regression - One Hot","3 days",36771,1.7607144237678,1.1720649005882,4.01282605201924
+"Non-newborn","Linear Regression - One Hot","4-6 days",50000,2.06793136197169,1.52731455700806,4.45181432066639
+"Non-newborn","Linear Regression - One Hot",">6 days",48747,6.40740651549369,3.71533923722596,14.1470565696908
+"Non-newborn","Random Forest Regression - Target","1 day",32881,2.59781650622674,1.95747299137636,4.43624210187679
+"Non-newborn","Random Forest Regression - Target","2 days",42329,1.54957809373737,0.994692618170601,3.37798466002664
+"Non-newborn","Random Forest Regression - Target","3 days",36771,1.31913242090444,0.645667238398789,3.21712906861383
+"Non-newborn","Random Forest Regression - Target","4-6 days",50000,1.78850290715806,1.2282418797055,3.7728301011076
+"Non-newborn","Random Forest Regression - Target",">6 days",48747,6.26502538347224,3.75334092011686,13.4883535089499

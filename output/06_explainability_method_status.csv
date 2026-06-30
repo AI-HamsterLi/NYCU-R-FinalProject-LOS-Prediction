@@ -1,0 +1,5 @@
+"Explainability_Method","Status","Notes"
+"Random Forest Feature Importance","Completed","Impurity-based feature importance from ranger random forest."
+"Permutation Importance","Completed","RMSE increase after feature permutation."
+"Decision Tree Interpretation","Completed","Rule-based interpretation using shallow regression trees."
+"Approximate SHAP","Not performed","Package fastshap is unavailable in the current R environment; feature importance, permutation importance, and decision tree interpretation are used as interpretable alternatives."

@@ -1,0 +1,3 @@
+"Dataset","Model","Accuracy","Macro_Precision","Macro_Recall","Macro_F1","Support"
+"Newborn","Random Forest Classifier - Target",0.59225,0.532984131138878,0.404063908031534,0.386748526446834,20000
+"Non-newborn","Random Forest Classifier - Target",0.453033333333333,0.473870479770565,0.435867684987196,0.421874859454237,30000

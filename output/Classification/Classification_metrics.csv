@@ -1,0 +1,7 @@
+"Dataset","Model","Accuracy","Macro_F1","Status"
+"Newborn","Multinomial Logistic Regression",0.5962,0.4209,NA
+"Non-newborn","Multinomial Logistic Regression",0.4566,0.4397,NA
+"Newborn","Random Forest Classifier - Target",0.5923,0.3867,NA
+"Non-newborn","Random Forest Classifier - Target",0.453,0.4219,NA
+"Newborn","CatBoost Classifier",NA,NA,"Not run: catboost package unavailable in current R environment"
+"Non-newborn","CatBoost Classifier",NA,NA,"Not run: catboost package unavailable in current R environment"
